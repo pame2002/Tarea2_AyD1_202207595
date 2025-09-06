@@ -19,11 +19,6 @@ Los requerimientos funcionales describen lo que el sistema debe hacer (funcional
 En esta tarea se aborda la identificación de dichos requerimientos, tomando como referencia plataformas de comercio electrónico como **Amazon, eBay o Walmart**, y posteriormente se representan mediante un **diagrama de casos de uso UML**, que facilita la comprensión de la interacción entre los actores y el sistema.  
 
 ---
-
-## Competencia  
-El estudiante es capaz de identificar requerimientos funcionales y no funcionales mediante el análisis de procesos y la elaboración de diagramas de casos de uso.  
-Esto permite garantizar que el sistema cumpla con las necesidades del usuario, al mismo tiempo que se mantiene un nivel adecuado de calidad, seguridad y usabilidad.  
-
 ---
 
 ## Requerimientos Funcionales 
