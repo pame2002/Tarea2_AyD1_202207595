@@ -1,7 +1,10 @@
 # Tarea #2 – Identificación de Requerimientos  
-**Curso:** Análisis y Diseño de Sistemas 1  
-**Universidad de San Carlos de Guatemala**  
-**Facultad de Ingeniería – Ingeniería en Ciencias y Sistemas**  
+**Universidad de San Carlos de Guatemala** 
+**Facultad de Ingeniería**  
+**Escuela de Ciencias y Sistemas**
+**Análisis y Diseño de Sistemas 1** 
+
+
 
 ---
 
